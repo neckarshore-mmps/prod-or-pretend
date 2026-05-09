@@ -5,7 +5,11 @@
 `mmp-prod-or-pretend` is the planning and (eventually) code repository for **Prod or Pretend** — a constructive quality mirror for tech hype on LinkedIn and X. Part of the Neckarshore AI product portfolio.
 
 Local path: `~/Developer/projects/neckarshore-ai/mmp-prod-or-pretend/`.
-GitHub: https://github.com/neckarshore-ai/mmp-prod-or-pretend (renamed from `OMNIXIS-prod-or-pretend` on 2026-04-18, stays in `neckarshore-ai` org per MMP scope — not moved to `omnopsis-ai`).
+GitHub: https://github.com/neckarshore-ai/mmp-prod-or-pretend.
+
+## Name history
+
+Renamed from `OMNIXIS-prod-or-pretend` to `mmp-prod-or-pretend` on 2026-04-18 (Decision D14 — brand rename OMNIXIS → Omnopsis). Stays in `neckarshore-ai` org per MMP scope — not moved to `omnopsis-ai` (which is the dedicated org for the Omnopsis Documentor product).
 
 ## Product Context
 
