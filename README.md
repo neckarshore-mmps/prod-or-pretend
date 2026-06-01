@@ -23,4 +23,4 @@ Planning phase — product concept defined, brainstorming complete, implementati
 
 ## Part of
 
-[Neckarshore AI](https://github.com/neckarshore-ai) — see [HQ](https://github.com/neckarshore-ai/hq) for company context.
+[Neckarshore AI](https://github.com/neckarshore-ai) — see [HQ](https://github.com/neckarshore-ai/neckarshore-planning) for company context.

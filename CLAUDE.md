@@ -37,5 +37,5 @@ Renamed from `OMNIXIS-prod-or-pretend` to `mmp-prod-or-pretend` on 2026-04-18 (D
 
 ## Related Repos
 
-- [neckarshore-ai/hq](https://github.com/neckarshore-ai/hq) — company HQ
+- [neckarshore-ai/neckarshore-planning](https://github.com/neckarshore-ai/neckarshore-planning) — company HQ
 - [neckarshore-ai/tools-claude-plugins](https://github.com/neckarshore-ai/tools-claude-plugins) — reusable skills (product-ideation plugin originated here)
